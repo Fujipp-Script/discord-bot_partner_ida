@@ -1,0 +1,1 @@
+# discord-bot_partner_ida
